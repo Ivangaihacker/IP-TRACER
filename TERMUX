@@ -1,0 +1,12 @@
+# IP-TRACER TERMUX
+# apt update
+# apt install git
+# git clone https://github.com/rajkumardusad/IP-Tracer.git
+
+# cd IP-Tracer
+# chmod +x install
+# sh install или ./install
+
+# trace -m 
+
+# trace -t 127.0.0.1
